@@ -1,2 +1,3 @@
-# noisevis
-i wanted to more easily visualize what the various noise functions do in the Mathematics.noise class
+lil system to visualize what the various Mathematics.noise functions do by outputting to a texture
+
+add `NoiseImage` component to object with RawImage component and assign a noise profile to visualize it
